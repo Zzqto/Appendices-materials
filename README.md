@@ -1,0 +1,1 @@
+This is the appendix material of the paper “Multi-commodity, simultaneous split pickup and delivery problem with demand allocation in the context of urban-rural delivery”, which was published in IJLSM.
